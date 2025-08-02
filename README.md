@@ -112,15 +112,9 @@ refactor-app/
 }
 ```
 
----
 
-## 📈 Roadmap & Next Steps
 
-- ✅ GitHub integration for version control and commit suggestions  
-- ✅ Database support (PostgreSQL) for history tracking  
-- ✅ Light/dark mode toggle for frontend UI  
-- ✅ Cloud deployment (Render, Streamlit Cloud, Heroku)  
-- ✅ Dockerize for easy deployment and scaling  
+
 
 ---
 

@@ -88,7 +88,7 @@ refactor-app/
 │   ├── analyze.py          # Gemini AI code analysis logic
 │
 ├── streamlit/              # Streamlit folder
-├── app.py                  # Streamlit frontend app
+│     ├── app.py                  # Streamlit frontend app
 ├── requirements.txt        # Python dependencies
 ├── .env                    # Environment variables (gitignored)
 ├── .gitignore              # Git ignore rules
